@@ -4,4 +4,4 @@
 
 ##### I am a developer who loves technology and dreams of becoming a big boss. Welcome to my page and explore the possibilities together!
 
-<img src="./assets/images.jpg" style="width:100%"/>
+![Spiderman](./assets/bgimg.png)
